@@ -1,0 +1,6 @@
+node_modules
+launchConfigurations/
+.git/
+*.log
+vcap-local.json
+.env

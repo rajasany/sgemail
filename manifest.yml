@@ -1,0 +1,8 @@
+---
+applications:
+- name: emailtestR
+  host: emailtestR
+  memory: 128M
+  env:
+    NODE_ENV: cloud-foundry
+    SENDGRID_API_KEY: "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"
